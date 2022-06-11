@@ -10,3 +10,4 @@
 |분류|관련 문제|
 |---|-----|
 |[투포인터](https://github.com/yaezzin/Algorithm/issues/1)|[```1644 소수의 연속 합```]() [```2230 수 고르기```](https://minutemaid.tistory.com/138?category=1284136) [```1806 부분합```](https://minutemaid.tistory.com/139)|
+|[이진탐색](https://github.com/yaezzin/Algorithm/issues/2)||
