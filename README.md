@@ -12,10 +12,10 @@
 |---|----|
 |[배열](https://github.com/yaezzin/Algorithm/issues/4)||
 |[연결리스트](https://github.com/yaezzin/Algorithm/issues/5)||
-|[스택]()||
+|[스택](https://github.com/yaezzin/Algorithm/issues/8)||
 |[큐]()||
-|[덱]()||
-|[우선순위 큐]()||
+|[덱](https://github.com/yaezzin/Algorithm/issues/9)||
+|[우선순위 큐](https://github.com/yaezzin/Algorithm/issues/7)||
 |[맵/딕셔너리](https://github.com/yaezzin/Algorithm/issues/6)|[```7785 회사에 있는 사람```](https://minutemaid.tistory.com/150)|
 |[집합]()||
 
