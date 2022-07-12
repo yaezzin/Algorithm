@@ -16,8 +16,9 @@
 |[큐]()||
 |[덱](https://github.com/yaezzin/Algorithm/issues/9)|[```1021 회전하는 큐```](https://minutemaid.tistory.com/152) [```2346 풍선 터뜨리기```](https://minutemaid.tistory.com/153) [```13417 카드 문자열```](https://minutemaid.tistory.com/157)|
 |[우선순위 큐](https://github.com/yaezzin/Algorithm/issues/7)|[```1417 국회의원 선거```](https://minutemaid.tistory.com/158)|
-|[맵/딕셔너리](https://github.com/yaezzin/Algorithm/issues/6)|[```7785 회사에 있는 사람```](https://minutemaid.tistory.com/150)|
+|[맵](https://github.com/yaezzin/Algorithm/issues/6)|[```7785 회사에 있는 사람```](https://minutemaid.tistory.com/150)|
 |[집합]()|[```1764 듣보잡```](https://minutemaid.tistory.com/159)|
+|[그래프]()|||
 
 </br>
 
@@ -26,3 +27,5 @@
 |---|-----|
 |[투포인터](https://github.com/yaezzin/Algorithm/issues/1)|[```1644 소수의 연속 합```]() [```2230 수 고르기```](https://minutemaid.tistory.com/138?category=1284136) [```1806 부분합```](https://minutemaid.tistory.com/139)|
 |[이진탐색](https://github.com/yaezzin/Algorithm/issues/2)||
+|[깊이 우선 탐색 BFS](https://github.com/yaezzin/Algorithm/issues/11)|||
+|[너비 우선 탐색 BFS]()|[```2178 미로 탐색```](https://minutemaid.tistory.com/160)||
