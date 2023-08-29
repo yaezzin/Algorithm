@@ -29,6 +29,6 @@ for i in range(n):
         flag = 1
         break
 
-if flag == 1:
+if flag == 0:
     for i in command:
         print(i)
