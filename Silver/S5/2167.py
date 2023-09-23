@@ -17,7 +17,6 @@ for i in range(n):
 for i in range(1, n+1):
     for j in range(1, m+1):
         D[i][j] = D[i][j-1] +D[i-1][j] - D[i-1][j-1] + A[i][j]
-print(D)
 
 # 계산
 k = int(input())
