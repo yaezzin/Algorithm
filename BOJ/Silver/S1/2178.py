@@ -14,10 +14,12 @@ def bfs(x, y):
     while queue:
         x, y = queue.popleft()
 
+        # 4방향을 돌면서
         for i in range(4):
             nx = x + dx[i]
             ny = y + dy[i]
-
+            
+            # 범위 내에 있고 방문을 할 수 있으면(=1)
             if 0 <= x < nx and 0 <= y < ny and graph[nx][ny] == 1:
                 queue.append((nx, ny))
                 graph[nx][ny] = graph[nx][ny] + 1
