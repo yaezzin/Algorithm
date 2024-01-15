@@ -7,7 +7,8 @@ def is_cyclic(current_node, parent):
             if is_cyclic(next_node, current_node): 
                 return True
         
-        # 이미 방문을 했지만, 이웃이 부모가 아니라면 싸이클이 존재
+        # 다음 노드가 이미 방문되었지만, 
+        # 부모 노드가 아니라면, 이는 현재 노드에서 이전에 방문한 다른 경로를 통해 온 노드
         elif next_node != parent:
             return True
     
