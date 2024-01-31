@@ -13,7 +13,7 @@ def choose(cur_num):
         return
 
     for i in range(n):
-        if cur_num > 1 and nums[i] in answer:
+        if cur_num > 1 and answer[-1] >= nums[i]:
             continue
         else:
             answer.append(nums[i])
